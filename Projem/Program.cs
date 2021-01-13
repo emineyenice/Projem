@@ -11,6 +11,7 @@ namespace Projem
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba Ben Emine");
+            Console.WriteLine("Merhaba Ben De Berdan");
             Console.ReadKey();
         }
     }
