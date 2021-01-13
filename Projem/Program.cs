@@ -12,6 +12,7 @@ namespace Projem
         {
             Console.WriteLine("Merhaba Ben Emine");
             Console.WriteLine("Merhaba Ben De Berdan");
+            Console.WriteLine("deneme");
             Console.ReadKey();
         }
     }
